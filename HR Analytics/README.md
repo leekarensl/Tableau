@@ -1,4 +1,4 @@
-![Logo](hr-analytics.png)
+![Logo](hr-analytics1.png)
 
 # HR Analytics Dashboard
 
