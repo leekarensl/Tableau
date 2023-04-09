@@ -1,3 +1,3 @@
 # Tableau
 
-This repository holds all of my Tableau visualisations
+This repository holds all of my visualisations using Tableau Public.
