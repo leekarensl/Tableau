@@ -1,0 +1,3 @@
+gender,employee_count,employee_percentage,company_tenure,avg_salary,avg_salary_percentage_change,min_salary,max_salary,median_salary,inter_quartile_range,stddev_salary
+M,144114,60,15,72045,3,38623,158220,69830,23624,17363
+F,96010,40,15,71964,3,38936,152710,69764,23326,17230
